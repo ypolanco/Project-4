@@ -12,9 +12,8 @@
 
 * Responsibility Breakdown
 * Wire Frame
-* Resource Gather
-* html skeloton
-
+* Resource gather
+* html skeleton
 
 #Plan 1/13 
 
