@@ -6,7 +6,7 @@
 [css]:https://developer.mozilla.org/en-US/docs/Web/CSS
 [flexbox]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-##Plan 1/11 
+#Plan 1/11 
 
 * Responsibility Breakdown
 * Wire Frame
@@ -14,7 +14,7 @@
 * html skeloton
 
 
-##Plan 1/13 
+#Plan 1/13 
 
 * Context
 * Add classes to HTML
