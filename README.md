@@ -4,9 +4,9 @@
 
 
 [project plan](https://docs.google.com/document/d/1WIUroaxsROAMTCP6uEPwFKcwBoK_WulmcqWHr3hYKjQ/edit#) <br> 
-[html](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[css](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[html](https://developer.mozilla.org/en-US/docs/Web/HTML)<br> 
+[css](https://developer.mozilla.org/en-US/docs/Web/CSS)<br> 
+[flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br> 
 
 #Plan 1/11 
 
